@@ -1,4 +1,48 @@
 [
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*",
+            "if-domain": [
+                "gaiheki.support.com"
+            ]
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*",
+            "if-domain": [
+                "navinavi.club"
+            ]
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*",
+            "if-domain": [
+                "cashing-god"
+            ]
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": ".*",
+            "if-domain": [
+                "cashing-fun.com"
+            ]
+        }
+    },
   {
     "action": {
       "type": "block"
