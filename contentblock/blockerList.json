@@ -1,0 +1,12971 @@
+[
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "100651.advision-adnw.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2.chmato.me"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2016monclerselltokyo.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2017bootsjapan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2017supremetokyo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2lwlh385os.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "2mdn.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "4clvr.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "6ped2nd3yp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "82b9d6273154e7cbf.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "PopCash.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "a-c-engine.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "a-cast.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "a.cookpad-ads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "a1.goo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aa.agkn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aaaf.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aaddcount.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aag.yahooapis.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "abc-adidas.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "abema-adx.ameba.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "accessup.goldcows.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "act.ameba.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "acuio.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-alp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-analyze.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-api-v01.uliza.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-arata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-arata.s3.amazonaws.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-bemti.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-brix.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-cloud.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-count.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-feed.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-hatena.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-house.mobi"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-image.val.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-info.val.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-link.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-lista.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-m.asia"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-miner.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-move.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-nex.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-seek.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-shot.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-sp.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-srv.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-stir.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-trip.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-v.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad-vanx.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.886644.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.a-ads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.abema.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.adpon.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.adsrvr.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.affipa.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.agilemedia.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.angel-live.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.api.fello.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.atdmt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.auditude.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.axyzconductor.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.brainer.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.cq-andc.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.ddo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.dlbooks.to"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.dmm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.douga-kan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.dropbooks.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.duga.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.goo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.goodad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.gunosy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.hatena.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.heypo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.impressbm.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.internetcom.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.jognote.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.jorudan.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.jp.ap.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.mediba.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.netowl.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.pitta.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.plus-a.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.rarure.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.response.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.somewrite.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.sp.mbga.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.tokyo-tube-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.unispire.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.val.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.webdice.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.wiredvision.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad.xdomain.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad2.fm-p.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ad2.maho.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adap.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adapf.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adapi.gunosy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adaptv.advertising.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adb.nikkei.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adc.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adcdn.goo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adck.crooz.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adcloud.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adclr.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adcolony.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adcrops.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adcv.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "addelivery-engine-api.voodoo-ads.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "addelivery.seedapp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "addeluxe.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adexchangeguru.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adf.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adferns.go2affise.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adflare.bz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adflare.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adforest.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adfurikun.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adglare.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adgrip.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adidassneakersjapann.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adimg.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adimp.excite.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adingo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adingo.jp.eimg.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adinte.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adjust-net.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adjust-sp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adk2x.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adlantis.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adlib.cptv.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adlpo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adm.fwmrm.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adm.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "admeme.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adminer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adming.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "admtpmp123.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "admtpmp124.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adnetworkperformance.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adnico.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adntokyo.gunosy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adnwif.smt.docomo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adnxs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adone.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adotmob.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adpdx.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adpix.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adplan-ds.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adplatform.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adpon.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adpresso.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adpriv.nikkei.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adprovider.maru.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adrcf.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adresult-sp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adresult.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adroll.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads-api.hackadoll.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads-i2i.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads-tool.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads-tr.bigmining.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads-twitter.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.admarvel.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.altema.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.bulldogcpi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.chartboosts.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.doko.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.exdynsrv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.gold"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.heyzap.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.mediams.mb.softbank.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.mediasmart.es"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.mixi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.mopub.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.mulan.cloud"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.newsdigest.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.nexage.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.nikkeibp.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.pubmatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.servebom.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.stickyadstv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads.yahoo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads1.jp.msn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads1.msads.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads2-adnow.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads280dummy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ads280dummy2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adsee.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adsensecustomsearchads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adserver.cxad.cxense.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adservice.google.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adservice.google.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adsk2.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adsnative.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adstore.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adsymptotic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtc.daum.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtdp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtech.advertising.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtech.de"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtechjp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adticker.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtilt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtrack.king.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtracker.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adtrue.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adult.likevideo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adultmild.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adultsuns.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adv.ad-splash.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adv.mobsmart.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advbanners.global.ssl.fastly.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advertising.jp.msn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advisionclick.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advisionweb.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advisionwebp.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advnet.xyz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advpic.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "advtrack.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adw.addlv.smt.docomo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adxpansion.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adxxx.me"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adxxx.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adzerk.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "adztec.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "af-110.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "af.moshimo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aff.jskyservices.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "affil.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "affiliate.dtiserv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "affiliate.rakuten.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "affiliateone.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "affordjabc.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "afte.mopo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aid-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aimg.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aja-recommend.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aka-uae-dl.uliza.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aldantownwatch.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "alogs.umengcloud.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aml.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "amoad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ams900.goo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ana2.tatsumi-sys.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analysiswebtool.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analytics.cocolog-nifty.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analytics.grupogodo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analytics.qlook.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer2.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer5.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer51.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer52.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer53.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer54.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "analyzer55.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "android.giveapp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aniview.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "anonymousdemographics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "antennash.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aoredi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aos-creative.prf.hn"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ap-notify.bidagent.xad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aphookkensidah.pro"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api-05.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.cho-ro.club"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.gameanalytics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.inwemo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.popin.cc"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.primecaster.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.repro.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.uca.cloud.unity3d.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "api.webpush.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aplkp.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "app-c.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "app-install-world.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "app-measurement.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "app.adjust.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appad.click"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appad02.mbsp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appier.mobi"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appier.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "applipromotion.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "applovin.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "applvn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appnext-a.akamaihd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appnext.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appnext.hs.llnwd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appollo-plus.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "appsdt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "apserver.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "apvdr.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aqua.dmm.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aquatas.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ard.gree.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "asia.creativecdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "aspm.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "asset.adserver.vrizead.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "assys01.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "astrsk.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "asumi.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "atech.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "attr.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "atwola.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "australiabootssalejp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "authedmine.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "automoc.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "avalon-ad.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "avdm.mobi"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "axia-hakusan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "azvjudwr.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "b.grvcdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "b.smartnews.be"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "b92.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "b97.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ba.afl.rakuten.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bag-hermes.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bagkakaku.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bagshop78.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bagsyo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "banner.blogranking.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "banner.cybershop-affiliate.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bannerbridge.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bannerfarm.aolp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "baseballkathyy.ml"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bc.atleit.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bcloudhost.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bdv.bidvertiser.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bead-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bellaveiskincare.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bestcopys.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bibincom.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bid.adpicker.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bidgear.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bidswitch.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "birkin30.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bizad.nikkeibp.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "black-diamond.asia"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "blog-livedorr.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "blog.alivedoors.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "blogranking.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "blogroll.click"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "blogroll.livedoor.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bluekai.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bnserving.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bongacams.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "boots1000.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bootstrapcdn.jdorfman.netdna-cdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "boudja.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "boxadstop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brandcopy2016.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brandedcorner.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brandheya.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brandparis6.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brandscreen.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "breeree.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "broadstreetads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "brucelead.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "btstatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bufferapp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "burandsale.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "buyma.site"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "buytowe.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bvezznurwekr.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bvlgarijapan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "bypass.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "c-web.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "c.betrad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "c1exchange.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ca-conv.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ca.clcknads.pro"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "camstaterep.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "candy-network.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "caprofitx.adtop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "caprofitx.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "caycecole.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn-api.admost.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn-guile.akamaized.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.ad1-click.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.adpicker.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.adsafeprotected.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.alistcloud.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.bigmining.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.cloudcoins.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.connectad.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.lodeo.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.neppa-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.pic.crooz.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.taboolasyndication.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.treasuredata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.tynt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn.z-profit.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdn2.googlestatisticalserver.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cdns.lodeo.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "celine-japan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cf.xad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cf04.kanade-ad.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "chez-lai.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "chibauni.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "chikayo-dsp.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ciltbakimiveguzellik.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cint.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "click-plus.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "click.adv.livedoor.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "click.duga.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "click.speee-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "clickadu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "clicks.rtad.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "clinexcel.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "clksite.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cloudmobi.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cma.jword.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cnhv.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cnt.affiliate.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coach-japan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coatnihon.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cobalten.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cocoad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "code.analysis.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "code.orange-jelly.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coin-have.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coin-hive.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinblind.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinerra.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinhive.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinhiveproxy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinlab.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coinnebula.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "comic-promotion.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coolkaba.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "coremetrics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cosmi.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "count-ad.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "count.orca-pass.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "counter.monkeybanana2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "counter.monkeybanana3.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "counter.yadro.ru"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cpmly.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crashlytics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "creativecarrer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crispadvertising.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "criteo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "criteo.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crosspartners.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crosspromo.voodoo.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crwdcntrl.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "crypto-loot.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cs.r-ad.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "csi.gstatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ct2.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ctibrc.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cube.jpn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cyberwing.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "cynergyper4mers.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d.5.to"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d.agkn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d.image-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d.pixiv.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d.somewrite.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d1miuq6afqay8u.cloudfront.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d1z2jf7jlzjs58.cloudfront.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d28nwox1gdjlve.cloudfront.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d2c.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "d2swpuhpwp3khd.cloudfront.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "darknagar.ru"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "deborahcoelho.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "deliver.ads2.iid.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "delivery.adrecover.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "delivery.locari.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "deloton.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "deqwas-dsp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "deqwas.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dgauda.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dinermuseum.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "diogene99.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "directlink.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "directrev.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dis.hogei.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "disqusads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dlp4luwpus5kr.cloudfront.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dlv.itmedia.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "doga.cm"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dokei777.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dominoad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "doprads.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dot-metrix.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "doubleclick.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "doubleclick.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dragontechs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "drkness.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dsp.adfarm1.adition.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dt.adsafeprotected.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dtscout.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "dynalyst.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "eb2.3lift.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "eco-tag.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "edu-huayu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "effectivemeasure.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "emailretargeting.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "emp.aiasahi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "enlvs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ero-advertising.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "etc.atja.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "eurocentrichandbags.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "evelynswonderland.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "events.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "evertherenous.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "exaf.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "exit-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "exoclick.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "exosrv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "eyeota.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "f9uri.mymobilelead.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fam-8.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fam-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fam-movie.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fam.dsdemo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fancrew.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "feed.mikle.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "feed.mobeek.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fem-staffservice.ssl-lolipop.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fine-tv.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fingahvf.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fivecdm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "flagshipband.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "flighttocapetown.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fluct.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "flurry.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "focas.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fod-cm-ad-v.webcdn.stream.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "for-ward.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fout.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fractionalmedia.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "free-video-movie.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "free2.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "front-logs.voodoo-ads.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fsitel.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "fullrss.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "g2.gumgum.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gad.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gamefeat.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gardeningst.men"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "garss.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gds786bomyc.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "geniee.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "genieedmp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "genieesspv.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "genuinelouisvuitton.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "get.mobu.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gigazine.asia"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "glam.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "global.msmtrakk06d.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "glossom.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "glossom.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "glssp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "glssp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gmossp-sp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.ad1data.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.bebi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.megabanners.cf"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.mobisla.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.oclasrv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "go.onclasrv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gobuy678.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "goliath.bi.miniclippt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "goodlifess.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "googleadapis.l.google.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "googleadservices.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "grangehillsurgery.co.uk"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gravity.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "grvspn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gsspat.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gsspcln.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gssprt.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gstaticadssl.l.google.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "guccimenjpsale.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "guile.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gum.xbooks.to"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "gutebaby.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "h.parrable.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hamalibg.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hermesmax.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hicopys.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hihumi.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hilltopads.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "histats.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hitcpm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hitgraph.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "hostalelcandil.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "housead.xofapp.xyz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "href.asia"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i-generation.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i-mobile.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i-you-i.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i.atleit.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i.connectad.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i.image-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i.popincdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i.tapit.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i2ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i2i.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i2i.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i2idata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "i2iserv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "iadsdk.apple.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "iaflstore.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ichi-ni-san.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "icoolauto.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "igp06.gameloft.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ilvjp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "im-apps.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "im.gmo.ov.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "im.ov.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "im.seesaa.ov.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "image.d-064.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "img-space.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "img.aread.site"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "img.bbchat.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "img.macromill.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "img.mobee2.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "imgcdn01.formulas.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "imp.asahi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "impression.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "imrworldwide.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "in.treasuredata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ingameads.gameloft.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ingameads2.gameloft.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ingamesads.gameloft.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ingest.crittercism.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "inmobi-jp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "inmobi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "inmobisdk-a.akamaihd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "innovate-blog.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "insight.adsrvr.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "inter1ads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "interstitial.fyber.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "intertakekuhy.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "invocation.cheqzone.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "iogous.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "iphoneswitch.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "iwanttodeliver.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j-a-net.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j.gmodmp.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j.image-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j.somewrite.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j.zucks.net.zimg.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j.zucks.net.zimg.jp.cdngc.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "j5sf.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "japanmetrix.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "japanshopstyle.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jennus.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jfashop.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jilliancamwell.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jjkopi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jleagueshop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jleagueuniform.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jonpoor.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jpbands2020.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jroqvbvw.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js-sec.indexww.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.8-starssp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.ad-trive.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.agkn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.batis.vip"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.bypass-sys.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.gumgum.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.impact.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.isboost.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.mediams.mb.softbank.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.monetize-ssp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.mulan.cloud"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.next-channel.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.orca-pass.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.passaro-de-fogo.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.rush-member.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.winc-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "js.wizeraz.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jsccnn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jscdndel.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jsecoin.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "juicyads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "jyhfuqoh.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "k77hof1z7k.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kakabrands.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kankokukopi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kau.li"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kdowqlpt.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ketchapp.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kikuku.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kiosked.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kochava.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kokokujp.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "komostyle.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "koukoku.red"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "krxd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ktai.pw"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "kushyma.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "l.betrad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ladsp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lafondabr.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lamp-shade.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "laptopscreen.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lead-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "leadin.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "leaffi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "likekopi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "line-cross.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "link-a.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "linkshare.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "linkshare.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "listat.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "live.chartboost.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "livead.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "liveads.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "livelog.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "livelyoffers.club"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "liverail.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lkjy.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lmodr.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "loading-delivery2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "loadmill.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "localytics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "log000.goo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "logly.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "logs.supersonic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "logv2.r-oo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "longchampukhandbags.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "louis-360.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "louisale.store"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lp.vasta.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lpdk.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lululemonoutlets5online.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lux-gokujo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lv-guccl88.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lvbagonsale.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lveif.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lvk7.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lvnkad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "lvreig.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "m-arata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "m.adsmatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "m1700.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ma-i2i.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "maad.maru.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mahimeta.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "maikiki.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "maist.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mamairma.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "man-live.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "man-live.ru"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "manga.boy.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mataharirama.xyz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "match.adsrvr.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mathtag.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mb-click.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mdn2015x1.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mdpl-jp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "measure.ameblo.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "med-api.admost.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "med.heyzap.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "medi-8.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "media-api.maio.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "media-b.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "media-rep.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "media.fc2.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "media.gssp.asia"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mediad.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mediad2.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mediaforge.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mediaid.click"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mediaweaver.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "medibaad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "methuenrestaurantweek.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "metrics.mzstatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mgid.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "microad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "microad.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mikopi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "minemytraffic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "miner.pr0gramm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "minero-proxy-01.now.sh"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "minero-proxy-02.now.sh"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "minero-proxy-03.now.sh"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "minero.pw"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "misawa-antenna.link"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mjjbag78.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mmaaxx.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mmoframes.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "moatads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mobpushup.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mobydickgozo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mobylog.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "momocak.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "momoemoe.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "monbran.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "moncler.onlineshop.jp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "monclerdown2014.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "monerominer.rocks"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "moopoemoe.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "moradu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "moras.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mortchiropractic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mov-c.appli-info.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mreco0.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "msaletoo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "msg.simeji.baidu.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mtburn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mttag.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mucu.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "multiquicks.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mvpnba.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mxvp-ad-config-prod-1.zenmxapps.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mxvp-feature-toggle-prod-1.zenmxapps.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "my-softbank-jp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mybgbgclojp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mycdn2.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "mysoftbank-jp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "n-ad.work"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "n.pc1ads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "n259adserv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nakanohito.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nend.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "newrelic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "newyorksportsworld.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "newzia.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nex8.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nexage.advertising.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "next-channel.xyz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nfdntqlqrgwc.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "niconicoav.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nmejrb.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nornelis.pw"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "northlandtimeshares.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nr-data.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nrelievedbrand.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nttdocomo-service.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nukiero.club"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nutrired.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "nxcount.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "oclaserver.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "oct-pass.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "octopuspop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "odnlj.snap-affairs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "officehelptogo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ok-outlet.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "omks.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "omotenashi.cygames.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "omt.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "omtrdc.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "onclickads.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "onclickmega.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "onclicktop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "onclkds.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "oneminuteplayfestival.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "online-dn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "onyxalliance.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "open8.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "open8video.blob.core.windows.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "openx.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "opr.formulas.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "orangemovie.link"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "osakadepo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "osiete-k.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ot.ca-mpr.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "otaimg.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "otapict.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "outbrain.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "outtogetme.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "overlay.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "owldata.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ozkaltd.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "p.rfihub.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pagead-googlehosted.l.google.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pagead2.googlesyndication.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "palazzogrimani.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pascal5.science"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "patiland.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "peppertreefrosty.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "permalink-system.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "petametrics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pfx.sma-clsystem.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pickgolfup.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pixel.parsely.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pixel.tapad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pixel.wp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pixon.ads-pixiv.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "play.entretenimientolz.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "polymorphicads.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "popads.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "popcash.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "porno-tv.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "positiveedgetutoring.co.uk"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "potedly.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "poweredbyliquidfire.mobi"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ppc-direct.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ppgcm.profilepassport.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ppoi.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pr.hogei.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "preaf-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "preaf.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "primead.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "projectpoi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "proparm.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "prscripts.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pszsri.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ptengine.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ptengine.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "public.fam-8.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "puhtml.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pumashopjapan.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "puserving.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "push7.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pushance.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "pussl48.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "qe8dc4gw.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "quant.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "quantcast.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "quantserve.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "r.edge.inmobicdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "r.profilepassport.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rakkuten.space"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rayjump.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rcm.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rdp.pro.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "reargooduches.pro"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "reasedoper.pw"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rec1.smt.docomo.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "red.hatena.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "red.st-hatena.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "red3.hatena.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "redge-a.akamaihd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "register.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "renewingfaces.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "reon.club"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "reporo.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "repurikakamire.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ressp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "resultplus.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "revsci.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rihzsedipaqq.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rinad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "robertsguide.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rocks.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rodrigoeberienos.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rokushiki.nefficient.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rossoad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rss-loader.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rss.rssad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rtb.appintop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rtb.nativeads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rubiconproject.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "run-syndicate.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "rushmyrepair.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s-adserver.cxad.cxense.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s.pagoda56.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s.pubmine.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s.storage-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s0.2mdn.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s1.yicha.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s3.buysellads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s3.mobile.val.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "s7.addthis.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "safe.urgent--alert.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "saifudesigner.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sakuraboxs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sakuraset.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sale8899.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sales-bicyclewebstore.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "san-ni-ichi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sbs-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "schemouth.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sda.seesaa.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sdk.ad.smaato.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sdk.adincube.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sdk.adtiming.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "searchteria.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "seedapp-creative.s3.amazonaws.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "serve.richmediaads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "servedby.openxmarket.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "services-rakutencard.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "serving-sys.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sharethrough.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "shisuh.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "shoeswars.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "shop-sis.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "showads.pubmatic.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "simplereach.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sin.creativecdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sirokad.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "skimresources.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smaad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smac-ssp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smart-ad.sakura.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smart-c.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartaccess.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartad-analytics.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartads.mobile.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartadserver.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartcanvas.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smartnews-ads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smetn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "smopy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sneakerheadclub.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sneakersjapanu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "snicases.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "socdm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "solty.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "soma.smaato.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "someapp.me"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "soraad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sp-click2.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sp.eroido.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spacenine.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spdeapp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "speead.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "speeddtc.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "speee-ad.akamaized.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sportscatchup.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sportseve.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spot-01.atas.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spot-01.trackingpro.pro"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spotx.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "spotxchange-a.akamaihd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sprout-ad.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "srv.bebi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "srv1.aaacompany.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ssl-google-analytics.l.google.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sspintrafmsmt.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "st.bebi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "st.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stab.thench.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "static.ad-lancers.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "static.parsely.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "static.zucks.net.zimg.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stats.atrl.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stats.unity3d.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stats.wordpress.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stats.wp.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "statsp.fpop.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "steadypaddling.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stimg.iand2ch.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stimg.thench.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stimgc.iand2ch.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stimgc.thench.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "storecor.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "styleja.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "stylesfashionstore.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sumapo.org"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "supersonicads-a.akamaihd.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "supersonicads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "swcs.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "syaseigangan.club"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sync-tapi.admatrix.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sync.aralego.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "sync.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "t.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "t.net-ap19.stream"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "taboola.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tacoda.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tags.h12-media.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tapjoy.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tapjoyads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tapone.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "taponejs-184e.kxcdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "taxel.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tcs-asp.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "teads.tv"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "techstats.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "teddyni.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tharbadir.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tk.mobri.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tm.r-ad.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tm2.r-ad.ne.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "top-kopi.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "toryburchoutlet.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trace.690.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tracer.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "track.appsflyer.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "track.richmediaads.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "track.somewrite.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "track.tenjin.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tracker.mca-analytics.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trackers.voodoo-analytics.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trackfeed.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tracking-server-prod-1.zenmxapps.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trackword.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tradedoubler.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trafficfactory.biz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trafficgate.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "traffichaus.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trafficjunky.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trafficstars.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trans-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trax-ad.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trc.pitadtag.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trends.revcontent.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "trj.valuecommerce.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "tsyndicate.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "turn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "uggbootsjapan.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "umeng.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "umeng.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "uncn.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "unifomushop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "uniform-fc.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "unitedblades.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "unitedblades.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "unityads.unity3d.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "unthem.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "urbntouch.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "user.in.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "userdive.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "v-wrd.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "v2st.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vanlai.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "variedshops.men"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vebadu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "velocecdn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vi-serve.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vidcpm.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "video.unrulymedia.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vizury.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vuitton-love.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vuittonfans.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vuittonu.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "vungle.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "wa-track.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "watch9.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "wearelovelive.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "web-analysis.click"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "web.stati.bid"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webmasterjs.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webmine.cz"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webpush-cdn.mobify.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webtracker.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webtrackerplus.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "webtrendslive.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "whos.amung.us"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "widget.iid-networkf.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "wisteria-js.excite.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "wt.adctrl.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ww6z7lrg3a.top"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "www.agkn.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "www.rakuten-contect-japan-servicc.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "www3.smartadserver.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "wwwpromoter.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "x-lift.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "x-storage-a1.cir.io"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "x3.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "x8.sarashi.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "x9.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xa.shinobi.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xbasfbno.info"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xlisting.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xlivedoor.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xmax.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xn--zuzy24d.co"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xseed-digital.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "xxlargepop.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "yads.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "yahhooo.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "yeas.yahoo.co.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ylx-1.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "youthrenewphyto.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ysloutletbags.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "yuibo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zbtqpkimkjcr.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zedo.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zemanta.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zenback.jp"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "ziyu.net"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zmnqoymznwng.com"
+      ]
+    }
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "trigger": {
+      "url-filter": ".*",
+      "if-domain": [
+        "zucks.net"
+      ]
+    }
+  }
+]
